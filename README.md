@@ -37,9 +37,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-villarreal&" alt="antonio-villarreal" style="width:100%"/>
   </div>
 </div>
-
-<div align="center">
-<p>&nbsp;<img align="left" height="50px" src="https://github-readme-stats.vercel.app/api?username=antonio-villarreal&show_icons=true&locale=en" alt="antonio-villarreal" style="width:100%"/> </p>
-
-<p> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-villarreal&" alt="antonio-villarreal" /></p>
-</div>
