@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonio-villarreal&label=Profile%20views&color=0e75b6&style=flat" alt="antonio-villarreal" /> </p>
 
-<!-- - 🔭 I’m currently working on [1](link) -->
+- 🔭 I’m currently working on **my personal website**
 
-- 🌱 I’m currently learning **REST APIs**
+- 🌱 I’m currently learning **Machine Learning, REST APIs, and Operating Systems**
 
 <!-- - 👯 I’m looking to collaborate on [1](link)
 
