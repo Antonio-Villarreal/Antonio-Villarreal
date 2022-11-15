@@ -2,20 +2,20 @@
 <h3 align="center">A passionate software engineer from the University of Florida</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonio-villarreal&label=Profile%20views&color=0e75b6&style=flat" alt="antonio-villarreal" /> </p>
-
-- 🔭 I’m currently working on [1](1)
+<!-- 
+- 🔭 I’m currently working on [1](1) -->
 
 - 🌱 I’m currently learning **REST APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/antonio-villarreal](https://github.com/antonio-villarreal)
 
-- 💬 Ask me about **1**
+<!-- - 💬 Ask me about **** -->
 
 - 📫 How to reach me **tonyjv10@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/antoniovillarreal2024/](https://www.linkedin.com/in/antoniovillarreal2024/)
-
-- ⚡ Fun fact **1**
+<!-- 
+- ⚡ Fun fact **1** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
