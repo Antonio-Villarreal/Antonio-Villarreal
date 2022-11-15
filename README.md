@@ -34,7 +34,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=antonio-villarreal&show_icons=true&locale=en" alt="antonio-villarreal" style="width:100%"/>
   </div>
   <div float="left" width="50%" padding="5px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-villarreal&" alt="antonio-villarreal" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-villarreal&" alt="antonio-villarreal" style="width:100%"/>
   </div>
 </div>
 
