@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonio-villarreal&label=Profile%20views&color=0e75b6&style=flat" alt="antonio-villarreal" /> </p>
 
-- 🔭 I’m currently working on **Securing a Fall 2023 internship**
+- 🔭 I’m currently working on **securing a Fall 2023 internship**
 
 - 🌱 I’m currently learning **Machine Learning, REST APIs, and Operating Systems**
 
