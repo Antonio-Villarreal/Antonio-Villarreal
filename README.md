@@ -10,9 +10,9 @@
 <!-- - 👯 I’m looking to collaborate on [1](link)
 
 - 🤝 I’m looking for help with [1](link) -->
-<div target="_blank">
+
 - 👨‍💻 All of my projects are available at [https://github.com/antonio-villarreal](https://github.com/antonio-villarreal)
-</div>
+
 <!-- - 💬 Ask me about **1** -->
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/antoniovillarreal2024/](https://www.linkedin.com/in/antoniovillarreal2024/)
