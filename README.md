@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/antoniovillarreal2024/](https://www.linkedin.com/in/antoniovillarreal2024/)
 
-- ⚡ Fun fact **1**
+<!-- - ⚡ Fun fact **1** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
