@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **securing a Fall 2023 internship**
 
-- 🌱 I’m currently learning **Machine Learning, REST APIs, and Operating Systems**
+- 🌱 I’m currently learning **REST APIs and Operating Systems**
 
 <!-- - 👯 I’m looking to collaborate on [1](link)
 
