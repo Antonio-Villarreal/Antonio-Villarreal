@@ -35,7 +35,7 @@
 
 <div clear="both" display="table">
   <div float="left" width="50%" padding="5px">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-villarreal&show_icons=true&locale=en&layout=compact" alt="antonio-villarreal" style="width:100%"/></p>
+<!--     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-villarreal&show_icons=true&locale=en&layout=compact" alt="antonio-villarreal" style="width:100%"/></p> -->
     <img src="https://github-readme-stats.vercel.app/api?username=antonio-villarreal&show_icons=true&locale=en" alt="antonio-villarreal" style="width:100%"/>
   </div>
 </div>
