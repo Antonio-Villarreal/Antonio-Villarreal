@@ -15,7 +15,7 @@
 
 <!-- - 💬 Ask me about **1** -->
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/antoniovillarreal2024/](https://www.linkedin.com/in/antoniovillarreal2024/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/antoniovillarreal2024/](https://www.linkedin.com/in/antoniojvillarreal/)
 
 - 📫 How to reach me **tonyjv10@gmail.com**
 
