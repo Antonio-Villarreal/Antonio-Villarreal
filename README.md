@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **developing [BudgetAI](https://github.com/tylerwong1/BudgetAI)** and **securing a new grad job for 2025**
 
-- 🌱 I’m currently learning **algorithms & abstraction**
+- 🌱 I’m currently learning **algorithms & abstraction** and **full-stack development**
 
 <!-- - 👯 I’m looking to collaborate on [1](link)
 
